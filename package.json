@@ -1,0 +1,14 @@
+{
+  "name": "testtaskcenixpro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.ts https://www.vprok.ru/product/domik-v-derevne-dom-v-der-moloko-ster-3-2-950g--309202 \\\"Санкт-Петербург и область\\\"\\n"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "puppeteer": "^22.1.0"
+  }
+}
